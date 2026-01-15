@@ -1,0 +1,25 @@
+{
+  "$schema": "https://archimatrix.io/schemas/delivery-manifest/v1.json",
+  "name": "FocalBoard",
+  "version": "0.1.0",
+  "description": "Open source project management tool - alternative to Trello, Notion, and Asana",
+  "runtime": {
+    "node": "20",
+    "packageManager": "npm"
+  },
+  "commands": {
+    "install": "make prebuild",
+    "build": "make",
+    "test": "make ci",
+    "dev": "./bin/focalboard-server"
+  },
+  "environment": {
+    "required": [],
+    "optional": [
+      "EXCLUDE_ENTERPRISE"
+    ],
+    "descriptions": {
+      "EXCLUDE_ENTERPRISE": "Set to '1' to exclude enterprise features"
+    }
+  }
+}
