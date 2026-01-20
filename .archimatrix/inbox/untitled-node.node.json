@@ -1,18 +1,18 @@
 {
   "$schema": "https://archimatrix.io/schemas/node.v1.json",
   "id": "untitled-node",
-  "stereotype": "be000005-0000-4000-8000-000000000001",
+  "stereotype": "be000001-0000-4000-8000-00000000001f",
   "name": "Untitled Node",
   "fields": {
     "position": {
-      "x": 45,
-      "y": 30
+      "x": 0,
+      "y": -60
     }
   },
   "tags": [],
   "metadata": {
-    "createdAt": "2026-01-20T23:29:08.290Z",
-    "updatedAt": "2026-01-20T23:29:08.355Z",
+    "createdAt": "2026-01-20T23:31:10.947Z",
+    "updatedAt": "2026-01-20T23:31:11.103Z",
     "version": 1
   }
 }
