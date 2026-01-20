@@ -1,0 +1,19 @@
+{
+  "$schema": "https://archimatrix.io/schemas/manifest.v1.json",
+  "name": "FocalBoard",
+  "version": "1.0.0",
+  "settings": {
+    "defaultStereotype": "sticky-note",
+    "validation": "relaxed",
+    "autoOrganize": false,
+    "connectionRulesEnabled": true
+  },
+  "folders": {
+    "inbox": "inbox"
+  },
+  "metadata": {
+    "createdAt": "2026-01-20T20:46:06.575Z",
+    "updatedAt": "2026-01-20T20:46:06.575Z",
+    "archimatrixVersion": "1.0.0"
+  }
+}
