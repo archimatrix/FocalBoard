@@ -5,14 +5,14 @@
   "name": "Untitled Node",
   "fields": {
     "position": {
-      "x": -105,
-      "y": -45
+      "x": -60,
+      "y": -15
     }
   },
   "tags": [],
   "metadata": {
-    "createdAt": "2026-01-20T23:15:57.784Z",
-    "updatedAt": "2026-01-20T23:15:58.606Z",
+    "createdAt": "2026-01-20T23:16:28.437Z",
+    "updatedAt": "2026-01-20T23:16:28.522Z",
     "version": 1
   }
 }
